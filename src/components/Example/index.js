@@ -1,5 +1,5 @@
 import React from 'react';
-import udiliaLogo from './udilia-logo.svg';
+import udiliaLogo from '../udilia-logo.svg';
 import './Example.css';
 
 const Example = () => (
